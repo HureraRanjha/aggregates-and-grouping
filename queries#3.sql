@@ -1,0 +1,1 @@
+select Min(UnitPrice) from products

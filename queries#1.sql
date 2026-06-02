@@ -1,0 +1,1 @@
+select Count(SupplierID) from suppliers

@@ -1,0 +1,1 @@
+select Sum(Salary) from employees
